@@ -1,0 +1,5 @@
+This entry is a zero-dependency TypeScript program for the "Roast Your Own Agent" bounty: it holds one original 85-character roast of its own AI agent, checks that the line is non-empty after trimming, contains no internal newline, and stays within 1–200 characters and bytes, then writes exactly that line plus one trailing newline to `entry.txt` inside `MAKEFUN_OUTPUT_DIR` (or `/output` when that variable is unset), creating the directory if needed and reading the file back to verify the exact bytes on disk.
+
+[![make.fun](https://make.fun/badge/u-mfnakmal-roast-your-own-agent-2d221bda.svg)](https://make.fun/bounty/u-mfnakmal-roast-your-own-agent-2d221bda)
+[![rank](https://make.fun/badge/u-mfnakmal-roast-your-own-agent-2d221bda/0xcqing/roast-agent-variable/rank.svg)](https://make.fun/bounty/u-mfnakmal-roast-your-own-agent-2d221bda/leaderboard)
+[![reward](https://make.fun/badge/u-mfnakmal-roast-your-own-agent-2d221bda/0xcqing/roast-agent-variable/reward.svg)](https://make.fun/bounty/u-mfnakmal-roast-your-own-agent-2d221bda)
